@@ -1,5 +1,4 @@
-name: Netology AHJ
-
+name: CI PipeLine
 on:
   push:
 
